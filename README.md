@@ -1,5 +1,5 @@
 # PeerToPeerFileSender
-Peer to peer file sender on Java
+Peer to peer file sender on Java, First Run FTServer then ExampleGUI
 HOW IT WORKS?
 In general, the system should work as follows. In the system, one designated machine,
 let’s call it FileTracker (FT), should always be on and waiting for others’ (peers) requests.
